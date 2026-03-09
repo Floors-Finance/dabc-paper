@@ -4,7 +4,7 @@ Paper and formal verification artifacts for *Debt-Aware Discrete Bonding Curves*
 
 ## Paper
 
-- **[dabc-2026.pdf](dabc-2026.pdf)** — full manuscript
+- **[dabc-2026.pdf](https://eprint.iacr.org/2026/483)** — full manuscript
 
 ## Formal Verification Artifacts
 
